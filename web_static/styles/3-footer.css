@@ -5,6 +5,7 @@ footer {
 	bottom:0; 
 	position:absolute;
 	border-top: 1px solid #CCCCCC;
+	position: fixed;
 }
 
 footer p {
